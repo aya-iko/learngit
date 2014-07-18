@@ -8,4 +8,4 @@
 asdaddsa git2\
 append GPL\
 git has mutable index called stage.\
-}
+git tracks changes.}
